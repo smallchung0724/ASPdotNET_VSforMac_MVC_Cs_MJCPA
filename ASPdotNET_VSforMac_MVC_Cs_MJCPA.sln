@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPdotNET_VSforMac_MVC_Cs_MJCPA", "ASPdotNET_VSforMac_MVC_Cs_MJCPA\ASPdotNET_VSforMac_MVC_Cs_MJCPA.csproj", "{03FB2C47-AEBD-4807-87ED-4629FE459C74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03FB2C47-AEBD-4807-87ED-4629FE459C74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03FB2C47-AEBD-4807-87ED-4629FE459C74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03FB2C47-AEBD-4807-87ED-4629FE459C74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03FB2C47-AEBD-4807-87ED-4629FE459C74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
